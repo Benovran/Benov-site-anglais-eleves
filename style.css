@@ -1,0 +1,33 @@
+body {
+    background-color: #f0f5f4; 
+    font-family: Arial, sans-serif; /* Police plus belle */
+    text-align: center; /* Texte centré */
+    padding: 50px; /* Espace autour du texte */
+}
+
+h1 {
+    color: #01080f; /* Titre en blanc */
+    font-size: 46px; /* Taille du titre */
+}
+
+p {
+    color: #09437e; 
+    font-size: 20px; /* Taille du texte */
+    line-height: 1.6; /* Espacement entre les lignes */
+}
+
+button {
+    background-color: #adbbba; 
+    color: rgb(9, 38, 43); 
+    border: none; 
+    padding: 15px 30px; 
+    font-size: 18px; 
+    border-radius: 50px; 
+    cursor: pointer; 
+    margin-top: 20px; 
+    transition: all 0.1s; 
+}
+
+button:hover {
+    background-color: #059b55; 
+    transform: scale(1.05); /* Petit agrandissement */
